@@ -42,7 +42,6 @@
 # Web
 
 HTTP Defintions: [Status Codes](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html), [Method](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9), [Header Fields](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14)
--
 
 ---
 
