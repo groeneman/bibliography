@@ -48,7 +48,7 @@
 
 # Persistence
 
-- Postgres: [9.5 Docs](https://www.postgresql.org/docs/9.5/static/release-9-5.html)
+- Postgres: [9.5 Docs](https://www.postgresql.org/docs/9.5/static/index.html)
 - [Redis](http://redis.io/)
 
 # General
