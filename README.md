@@ -2,8 +2,8 @@
 
 - API Docs: [Enumerable](https://ruby-doc.org/core-2.3.0/Enumerable.html) ([Hash](https://ruby-doc.org/core-2.3.0/Hash.html), [Array](https://ruby-doc.org/core-2.3.0/Array.html)), [Regular Expressions](https://ruby-doc.org/core-2.3.0/Regexp.html)
 - [Parsing CSV Files](http://technicalpickles.com/posts/parsing-csv-with-ruby/)
-- [Sidekiq](https://github.com/mperham/sidekiq/wiki)
-- [ByeBug Guide](https://github.com/deivid-rodriguez/byebug/blob/master/GUIDE.md)
+- [Sidekiq](https://github.com/mperham/sidekiq/wiki): Widely used Ruby/Rails background job processor. Can serve as ActiveJob backend
+- [Byebug Guide](https://github.com/deivid-rodriguez/byebug/blob/master/GUIDE.md): Ruby CLI debugger
 - [Rubular](http://rubular.com/): Interactive Ruby regex editor
 - [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 - [Let's make a Gem](http://rakeroutes.com/blog/lets-write-a-gem-part-one/): How to make a gem
