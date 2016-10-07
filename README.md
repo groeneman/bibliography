@@ -46,6 +46,12 @@
 
 - [SourceMaking](https://sourcemaking.com/): Desgin patterns, antipatterns, and refactoring
 
+# Persistence
+
+- Postgres: [9.5 Docs](https://www.postgresql.org/docs/9.5/static/release-9-5.html)
+- [Redis](http://redis.io/)
+
 # General
 
 - [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+- [Show Git branch name in Mac terminal](http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/)
