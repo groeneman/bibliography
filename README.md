@@ -1,0 +1,2 @@
+Rails Guides: 
+- Active Record: [Basics](http://guides.rubyonrails.org/active_record_basics.html), [Migrations](http://guides.rubyonrails.org/active_record_migrations.html), [Validations](http://guides.rubyonrails.org/active_record_validations.html), [Callbacks](http://guides.rubyonrails.org/active_record_callbacks.html), [Associations](http://guides.rubyonrails.org/association_basics.html), [Querying](http://guides.rubyonrails.org/active_record_querying.html)
