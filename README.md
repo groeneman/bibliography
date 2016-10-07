@@ -52,6 +52,7 @@
 - [Twelve-factor app](https://12factor.net/)
 - [How AWS S3 Authorizes an Object Operation](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-auth-workflow-object-operation.html)
 - [Configuring Puma on Heroku](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server): Best practices for deploying Rails apps on Heroku with the Puma web server
+- [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
 
 # Desgin
 
