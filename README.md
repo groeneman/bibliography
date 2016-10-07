@@ -39,3 +39,7 @@
 # Desgin
 
 - [SourceMaking](https://sourcemaking.com/): Desgin patterns, antipatterns, and refactoring
+
+# General
+
+- [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
