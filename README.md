@@ -26,6 +26,7 @@
   - [Command Line](http://guides.rubyonrails.org/v4.2/command_line.html)
 
 - [API Dock](http://apidock.com/rails/browse)
+- [Mongoid](https://docs.mongodb.com/ruby-driver/master/mongoid-tutorials-6.0/) (Ruby <--> Mongo ODM)
 
 # Javascript
 
@@ -49,6 +50,7 @@
 
 - [Twelve-factor app](https://12factor.net/)
 - [How AWS S3 Authorizes an Object Operation](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-auth-workflow-object-operation.html)
+- [Configuring Puma on Heroku](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server): Best practices for deploying Rails apps on Heroku with the Puma web server
 
 # Desgin
 
@@ -58,6 +60,7 @@
 
 - Postgres: [9.5 Docs](https://www.postgresql.org/docs/9.5/static/index.html)
 - [Redis](http://redis.io/)
+- Mongo: [Server Docs](https://docs.mongodb.com/manual/), [Drivers](https://docs.mongodb.com/ecosystem/drivers/)
 
 # General
 
