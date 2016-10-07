@@ -1,7 +1,11 @@
 # Ruby
 
+- API Docs: [Enumerable](https://ruby-doc.org/core-2.3.0/Enumerable.html) ([Hash](https://ruby-doc.org/core-2.3.0/Hash.html), [Array](https://ruby-doc.org/core-2.3.0/Array.html)), [Regular Expressions](https://ruby-doc.org/core-2.3.0/Regexp.html)
 - [Parsing CSV Files](http://technicalpickles.com/posts/parsing-csv-with-ruby/)
+- [Sidekiq](https://github.com/mperham/sidekiq/wiki)
 - [ByeBug Guide](https://github.com/deivid-rodriguez/byebug/blob/master/GUIDE.md)
+- [Rubular](http://rubular.com/): Interactive Ruby regex editor
+- [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 
 # RSpec
 
