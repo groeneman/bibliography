@@ -6,6 +6,8 @@
 - [ByeBug Guide](https://github.com/deivid-rodriguez/byebug/blob/master/GUIDE.md)
 - [Rubular](http://rubular.com/): Interactive Ruby regex editor
 - [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
+- [Let's make a Gem](http://rakeroutes.com/blog/lets-write-a-gem-part-one/): How to make a gem
+- [Bundler](http://bundler.io/) ([Gemfiles](http://bundler.io/v1.5/gemfile.html))
 
 # RSpec
 
