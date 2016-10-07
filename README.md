@@ -29,9 +29,16 @@
 
 # Javascript
 
+- [ESLint Rules](http://eslint.org/docs/rules/)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # React
+
+- [Official Docs](https://facebook.github.io/react/docs/getting-started.html)
+  - [Props: Types, Validation, Defaults](https://facebook.github.io/react/docs/reusable-components.html)
+  - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [Cheat Sheet](http://ricostacruz.com/cheatsheets/react.html)
+- [Related Tools](https://github.com/facebook/react/wiki/Complementary-Tools): An extensive list of tools and addons related to React.
 
 # Web
 
