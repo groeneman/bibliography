@@ -57,9 +57,9 @@
 - [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
 - [AWS Open Guide](https://github.com/open-guides/og-aws) (Discussion of all AWS Services) ([IAM](https://github.com/open-guides/og-aws#security-and-iam), [S3](https://github.com/open-guides/og-aws#s3), [Route53](https://github.com/open-guides/og-aws#route-53), [CloudFront](https://github.com/open-guides/og-aws#cloudfront))
 
-# Desgin
+# Design
 
-- [SourceMaking](https://sourcemaking.com/): Desgin patterns, antipatterns, and refactoring
+- [SourceMaking](https://sourcemaking.com/): Design patterns, antipatterns, and refactoring
 
 # Persistence
 
