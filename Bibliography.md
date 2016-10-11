@@ -33,6 +33,7 @@
 
 - [ESLint Rules](http://eslint.org/docs/rules/)
 - [How it Feels to Learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.h935mmftb)
+- [Learn ES6 (aka ES2015)](https://babeljs.io/docs/learn-es2015/)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Webpack Configuration](https://webpack.github.io/docs/configuration.html) (JS/CSS/HTML build tool. Confusing as hell.)
 
