@@ -55,6 +55,7 @@
 - [How AWS S3 Authorizes an Object Operation](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-auth-workflow-object-operation.html)
 - [Configuring Puma on Heroku](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server): Best practices for deploying Rails apps on Heroku with the Puma web server
 - [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
+- [AWS Open Guide](https://github.com/open-guides/og-aws) (Discussion of all AWS Services) ([IAM]https://github.com/open-guides/og-aws#security-and-iam), [S3](https://github.com/open-guides/og-aws#s3), [Route53](https://github.com/open-guides/og-aws#route-53), [CloudFront](https://github.com/open-guides/og-aws#cloudfront))
 
 # Desgin
 
