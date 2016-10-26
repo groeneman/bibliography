@@ -45,7 +45,7 @@
   - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [Cheat Sheet](http://ricostacruz.com/cheatsheets/react.html)
 - [Related Tools](https://github.com/facebook/react/wiki/Complementary-Tools): An extensive list of tools and addons related to React.
-
+- [Redux](http://redux.js.org/): Functional state container for Javascript Apps. ([Usage With React](http://redux.js.org/docs/basics/UsageWithReact.html))
 # Web
 
 - HTTP Defintions: [Status Codes](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html), [Method](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9), [Header Fields](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14)
