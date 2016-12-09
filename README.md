@@ -12,8 +12,10 @@
 
 # RSpec
 
+- RSpec tutorial for beginners: [pt. 1](https://code.tutsplus.com/articles/rspec-testing-for-beginners-part-1--cms-26716), [pt. 2](https://code.tutsplus.com/articles/rspec-testing-for-beginners-02--cms-26720), [pt. 3](https://code.tutsplus.com/articles/rspec-testing-for-beginners-03--cms-26728)
 - [Dry Up Your Rspec Files With Subject & Let Blocks](http://benscheirman.com/2011/05/dry-up-your-rspec-files-with-subject-let-blocks/): Introduction to `let` and `subject` blocks in RSpec.
 - [Faster Test Suites](http://stackoverflow.com/a/5085842): StackOverflow answer that discusses several strategies for decreasing test suite runtimes times.
+- [Factory Girl](https://github.com/thoughtbot/factory_girl): Helps create objects for use in tests. Tutorial [pt. 1](https://code.tutsplus.com/articles/factory-girl-101--cms-25087), [pt. 2](https://code.tutsplus.com/articles/factory-girl-201--cms-25171)
 
 # Rails
 
