@@ -17,7 +17,7 @@
 
 # Rails
 
-- [Rails Guides (v4.2)](http://guides.rubyonrails.org/v4.2/): 
+- [Rails Guides (v4.2)](http://guides.rubyonrails.org/v4.2/):
   - Active Record: [Basics](http://guides.rubyonrails.org/v4.2/active_record_basics.html), [Migrations](http://guides.rubyonrails.org/v4.2/active_record_migrations.html), [Validations](http://guides.rubyonrails.org/v4.2/active_record_validations.html), [Callbacks](http://guides.rubyonrails.org/v4.2/active_record_callbacks.html), [Associations](http://guides.rubyonrails.org/v4.2/association_basics.html), [Querying](http://guides.rubyonrails.org/v4.2/active_record_querying.html)
   - [Background Jobs](http://guides.rubyonrails.org/v4.2/active_job_basics.html)
   - [Command Line](http://guides.rubyonrails.org/v4.2/command_line.html)
@@ -29,7 +29,7 @@
 - [API Dock](http://apidock.com/rails/browse)
 - [Mongoid](https://docs.mongodb.com/ruby-driver/master/mongoid-tutorials-6.0/) (Ruby <--> Mongo ODM)
 
-# Javascript
+# HTML/CSS/Javascript
 
 - [ESLint Rules](http://eslint.org/docs/rules/)
 - [How it Feels to Learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.h935mmftb)
@@ -37,6 +37,7 @@
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Webpack Configuration](https://webpack.github.io/docs/configuration.html): JS/CSS/HTML build tool. Confusing as hell.
 - [DevTool Secrets](http://devtoolsecrets.com/): Pro tips for using browser dev consoles.
+- [Flexbox Demo](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/): Helps figure out how the heck CSS Flexible Box works.
 
 # React
 
