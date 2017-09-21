@@ -1,6 +1,7 @@
 # Ruby
 
 - API Docs: [Enumerable](https://ruby-doc.org/core-2.3.0/Enumerable.html) ([Hash](https://ruby-doc.org/core-2.3.0/Hash.html), [Array](https://ruby-doc.org/core-2.3.0/Array.html)), [Regular Expressions](https://ruby-doc.org/core-2.3.0/Regexp.html)
+- [Awesome Ruby](http://awesome-ruby.com/): A curated collection of great Ruby packages
 - [Bundler](http://bundler.io/) ([Gemfiles](http://bundler.io/v1.5/gemfile.html))
 - [Byebug Guide](https://github.com/deivid-rodriguez/byebug/blob/master/GUIDE.md): Ruby CLI debugger
 - [Let's make a Gem](http://rakeroutes.com/blog/lets-write-a-gem-part-one/): How to make a gem
@@ -8,7 +9,9 @@
 - [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home): Ruby <--> Postgres driver
 - [Rubular](http://rubular.com/): Interactive Ruby regex editor
 - [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
+- [Ruby Weekly](http://rubyweekly.com/): Consistently useful Ruby newsletter
 - [Sidekiq](https://github.com/mperham/sidekiq/wiki): Widely used Ruby/Rails background job processor. Can serve as ActiveJob backend
+
 
 # RSpec
 
@@ -30,6 +33,7 @@
 
 - [API Dock](http://apidock.com/rails/browse)
 - [Mongoid](https://docs.mongodb.com/ruby-driver/master/mongoid-tutorials-6.0/) (Ruby <--> Mongo ODM)
+- [Webpacker](https://github.com/rails/webpacker): Integrate Webpack-compiled resources with the Rails asset pipeline (Rails 4.2+)
 
 # HTML/CSS/Javascript
 
