@@ -53,7 +53,8 @@
 - [Cheat Sheet](http://ricostacruz.com/cheatsheets/react.html)
 - [Related Tools](https://github.com/facebook/react/wiki/Complementary-Tools): An extensive list of tools and addons related to React.
 - [Redux](http://redux.js.org/): Functional state container for Javascript Apps. ([w/React](http://redux.js.org/docs/basics/UsageWithReact.html), [w/React Router](http://redux.js.org/docs/advanced/UsageWithReactRouter.html))
-- Performance: [Perf tool](http://benchling.engineering/deep-dive-react-perf-debugging/), [Performance Engineering with React](http://benchling.engineering/performance-engineering-with-react/) 
+- Performance: [Perf tool](http://benchling.engineering/deep-dive-react-perf-debugging/), [Performance Engineering with React](http://benchling.engineering/performance-engineering-with-react/)
+- [Presentational vs. Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0): One of the fundamental pieces of structuring advice for React apps. Must read for new React/Redux devs.
 
 # Web
 
