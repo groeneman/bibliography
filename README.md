@@ -44,6 +44,7 @@
 - [Webpack Configuration](https://webpack.github.io/docs/configuration.html): JS/CSS/HTML build tool. Confusing as hell.
 - [DevTool Secrets](http://devtoolsecrets.com/): Pro tips for using browser dev consoles.
 - [Flexbox Demo](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/): Helps figure out how the heck CSS Flexible Box works.
+- [A Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 # React
 
