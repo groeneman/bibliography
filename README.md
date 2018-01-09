@@ -11,6 +11,7 @@
 - [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 - [Ruby Weekly](http://rubyweekly.com/): Consistently useful Ruby newsletter
 - [Sidekiq](https://github.com/mperham/sidekiq/wiki): Widely used Ruby/Rails background job processor. Can serve as ActiveJob backend
+- [The Ultimate Guide to Timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts): How to set timeouts on anything
 
 
 # RSpec
