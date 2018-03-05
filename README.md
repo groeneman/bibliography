@@ -90,3 +90,4 @@
 - [Show Git branch name in Mac terminal](http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/)
 - [Git](https://git-scm.com/): Source code management. (Learn git with puzzles: [#1](http://learngitbranching.js.org/), [#2](https://github.com/git-game/git-game), [#3](https://github.com/git-game/git-game-v2), [Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60))
 - [Hyperpolyglot](http://hyperpolyglot.org/): See basic functionality written out in many languages.
+- [Schema.org](http://schema.org/): Basic data models (to avoid bikeshedding)
