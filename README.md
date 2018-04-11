@@ -7,6 +7,7 @@
 - [Let's make a Gem](http://rakeroutes.com/blog/lets-write-a-gem-part-one/): How to make a gem
 - [Parsing CSV Files](http://technicalpickles.com/posts/parsing-csv-with-ruby/)
 - [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home): Ruby <--> Postgres driver
+- [Rubocop](https://rubocop.readthedocs.io/en/latest/): Ruby linter
 - [Rubular](http://rubular.com/): Interactive Ruby regex editor
 - [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 - [Ruby Koans](http://rubykoans.com/): Learn Ruby by solving puzzles!
