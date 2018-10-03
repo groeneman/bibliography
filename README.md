@@ -22,6 +22,7 @@
 - [Dry Up Your Rspec Files With Subject & Let Blocks](http://benscheirman.com/2011/05/dry-up-your-rspec-files-with-subject-let-blocks/): Introduction to `let` and `subject` blocks in RSpec.
 - [Faster Test Suites](http://stackoverflow.com/a/5085842): StackOverflow answer that discusses several strategies for decreasing test suite runtimes times.
 - [Factory Girl](https://github.com/thoughtbot/factory_girl): Helps create objects for use in tests. Tutorial [pt. 1](https://code.tutsplus.com/articles/factory-girl-101--cms-25087), [pt. 2](https://code.tutsplus.com/articles/factory-girl-201--cms-25171)
+- [Better Specs](http://www.betterspecs.org/): Guidelines for writing good specs
 
 # Rails
 
