@@ -9,7 +9,7 @@
 - [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home): Ruby <--> Postgres driver
 - [Rubocop](https://rubocop.readthedocs.io/en/latest/): Ruby linter
 - [Rubular](http://rubular.com/): Interactive Ruby regex editor
-- [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html)
+- [Ruby Exception Hierarchy](http://rubylearning.com/satishtalim/ruby_exceptions.html) ([A note about NotImplementedError](http://chrisstump.online/2016/03/23/stop-abusing-notimplementederror/))
 - [Ruby Koans](http://rubykoans.com/): Learn Ruby by solving puzzles!
 - [Ruby Weekly](http://rubyweekly.com/): Consistently useful Ruby newsletter
 - [Sidekiq](https://github.com/mperham/sidekiq/wiki): Widely used Ruby/Rails background job processor. Can serve as ActiveJob backend
