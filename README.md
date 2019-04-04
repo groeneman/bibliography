@@ -78,6 +78,7 @@
 # Design
 
 - [SourceMaking](https://sourcemaking.com/): Design patterns, antipatterns, and refactoring
+- [Kata](http://kata-log.rocks/refactoring): List of refactoring Kata
 
 # Persistence
 
