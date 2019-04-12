@@ -100,3 +100,7 @@
 - [Git](https://git-scm.com/): Source code management. (Learn git with puzzles: [#1](http://learngitbranching.js.org/), [#2](https://github.com/git-game/git-game), [#3](https://github.com/git-game/git-game-v2), [Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60))
 - [Hyperpolyglot](http://hyperpolyglot.org/): See basic functionality written out in many languages.
 - [Schema.org](http://schema.org/): Basic data models (to avoid bikeshedding)
+
+# RubyMine
+
+- [Troubleshooting mySQL + RubyMine DB console](https://stackoverflow.com/questions/6865538/solving-a-communications-link-failure-with-jdbc-and-mysql/10772407#10772407) I had to set `bind-address="127.0.0.1"` to get RubyMine to connect via an SSH tunnel.
