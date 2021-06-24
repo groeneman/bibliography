@@ -88,6 +88,8 @@
   - [How to see the disk size of Postgres tables](https://stackoverflow.com/a/2596678)
   - [pgsync](https://github.com/ankane/pgsync) Postgres DB sync tool
 - [Redis](http://redis.io/)
+- mySQL:
+  - [pt-archiver](https://www.percona.com/doc/percona-toolkit/3.0/pt-archiver.html)
 
 # Scale (beta)
 
