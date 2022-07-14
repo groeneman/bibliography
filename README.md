@@ -14,6 +14,7 @@
 - [Ruby Weekly](http://rubyweekly.com/): Consistently useful Ruby newsletter
 - [Sidekiq](https://github.com/mperham/sidekiq/wiki): Widely used Ruby/Rails background job processor. Can serve as ActiveJob backend
 - [The Ultimate Guide to Timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts): How to set timeouts on anything
+- RubyChanges[https://rubyreferences.github.io/rubychanges]: History of Ruby version changes
 
 
 # RSpec
